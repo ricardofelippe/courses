@@ -65,6 +65,8 @@ folds <- createFolds(y=spam$type,k=10,
                              list=TRUE,returnTrain=FALSE)
 sapply(folds,length)
 folds[[1]][1:10]
+MINHA ANOTAÇÃO
+
 ```
 
 ---
